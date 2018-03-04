@@ -6,7 +6,7 @@ A simple tool to extract iksm_session token from Nintendo Switch Online app
 Download the latest [Windows installer](https://github.com/eliboa/ink-proxy/releases) 
 
 ## How does it work ?
-This is an electron app that uses [mitm proxy](https://github.com/mitmproxy/mitmproxy) to create a proxy on your computer, then sniff https packets from Splatnet on your phone (NSO app) and retrieve your iksm session.
+This electron app uses [mitm proxy](https://github.com/mitmproxy/mitmproxy) to create a proxy on your computer, so it is possible to sniff http packets from Splatnet on your phone (NSO app) and retrieve your iksm session.
 
 ## Use / Related
 iksm_session token can be used to access the Splatnet API (Splatoon 2).
