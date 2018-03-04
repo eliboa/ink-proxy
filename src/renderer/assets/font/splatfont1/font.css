@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Splatoon1';
+  src: url('Splatoon1.eot');
+  src: url('Splatoon1.woff2') format('woff2'),
+       url('Splatoon1.woff') format('woff'),
+       url('Splatoon1.ttf') format('truetype'),
+       url('Splatoon1.svg#Splatoon1') format('svg'),
+       url('Splatoon1.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
