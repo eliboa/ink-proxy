@@ -1,3 +1,7 @@
+# Disclaimer
+This app is no longer maintained and no longer works with NSO app new version.
+Check this [API](https://github.com/frozenpandaman/splatnet2statink/wiki/api-docs) to retrieve your iksm token
+
 # Ink Proxy
 A simple tool to extract iksm_session token from Nintendo Switch Online app
 ![Gif](http://splatoon.eu/ink-proxy/screen.gif)
